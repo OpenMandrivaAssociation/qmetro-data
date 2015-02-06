@@ -1,7 +1,7 @@
 Summary:	Maps for qMetro
 Name:		qmetro-data
 Version:	0
-Release:	1
+Release:	2
 License:	GPLv2+
 Group:		Sciences/Geosciences
 Url:		http://pmetro.su/Maps.html
