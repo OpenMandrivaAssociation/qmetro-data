@@ -4,7 +4,7 @@ Version:	0
 Release:	2
 License:	GPLv2+
 Group:		Sciences/Geosciences
-Url:		http://pmetro.su/Maps.html
+Url:		https://pmetro.su/Maps.html
 # Pack all maps into one tarball
 Source0:	%{name}.tar.bz2
 BuildArch:	noarch
